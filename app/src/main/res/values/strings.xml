@@ -1,0 +1,21 @@
+<resources>
+    <!-- activity_main -->
+    <string name="app_name">Formulario Contacto</string>
+    <string name="titulo">Entre los Datos del Contacto</string>
+    <string name="nombre">Nombre Completo</string>
+    <string name="telefono">Teléfono</string>
+    <string name="fecha">Fecha de Nacimiento </string>
+    <string name="email">Email</string>
+    <string name="descripcion">Descripción Contacto</string>
+    <string name="datepikermode">spinner</string>
+    <string name="btnSiguiente">Siguiente</string>
+    <string name="keyNombre">nombre</string>
+    <string name="keyTelefono">telefono</string>
+    <string name="keyEmail">email</string>
+    <string name="keyDescripcion">descripcion</string>
+    <string name="keyFecha">fecha</string>
+
+    <!-- activity_confirmation -->
+    <string name="titulo_confirmacion">Confirmar Datos</string>
+    <string name="btnEditar">Editar Datos</string>
+</resources>

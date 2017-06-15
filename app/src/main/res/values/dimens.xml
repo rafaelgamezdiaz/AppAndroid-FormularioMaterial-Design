@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="txtfecha">14dp</dimen>
+    <dimen name="titulo">22dp</dimen>
+    <dimen name="padding">5dp</dimen>
+    <dimen name="paddingTop">4dp</dimen>
+    <dimen name="paddingTopBottomItems">8dp</dimen>
+    <dimen name="paddingBottom">10dp</dimen>
+    <dimen name="paddingTopBtnEdit">40dp</dimen>
+    <dimen name="datosConfirmar">20dp</dimen>
+</resources>
